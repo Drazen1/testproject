@@ -1,2 +1,3 @@
 First line text from master
 Second line
+Third line
